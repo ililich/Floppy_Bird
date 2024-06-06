@@ -1,0 +1,13 @@
+﻿  Bird.cpp
+C:\Game\Game\Game\Bird.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Bird.cpp")
+  
+  Game.cpp
+C:\Game\Game\Game\Game.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Game.cpp")
+  
+  Pipe.cpp
+C:\Game\Game\Game\Pipe.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Pipe.cpp")
+  
+  Создание кода...
